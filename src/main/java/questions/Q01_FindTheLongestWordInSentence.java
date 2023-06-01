@@ -38,9 +38,6 @@ public class Q01_FindTheLongestWordInSentence {
         System.out.println(longestWord);
 
 
-
     }
-
-
 
 }
